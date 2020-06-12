@@ -1,7 +1,7 @@
 # this is the start of the second part of bioinformatics assignment-03
-library("seqinr") 
+library("seqinr") #import sequinr
 library("R.utils") 
-library("rBLAST") 
+library("rBLAST") # import rBlast library
 library("ape") 
 library("ORFik") 
 library("Biostrings") 
