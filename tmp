@@ -1,0 +1,1741 @@
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: tophit.fa
+           1 sequences; 2,298 total letters
+
+
+
+Query= 1
+
+Length=615
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1378458
+
+
+Query= 2
+
+Length=525
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1172718
+
+
+Query= 3
+
+Length=702
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1577340
+
+
+Query= 4
+
+Length=1176
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2660904
+
+
+Query= 5
+
+Length=399
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 887356
+
+
+Query= 6
+
+Length=1203
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2722626
+
+
+Query= 7
+
+Length=867
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1954530
+
+
+Query= 8
+
+Length=723
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1625346
+
+
+Query= 9
+
+Length=663
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1488186
+
+
+Query= 10
+
+Length=762
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1714500
+
+
+Query= 11
+
+Length=1497
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3394710
+
+
+Query= 12
+
+Length=333
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 736414
+
+
+Query= 13
+
+Length=273
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 599194
+
+
+Query= 14
+
+Length=837
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1885950
+
+
+Query= 15
+
+Length=1419
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3216402
+
+
+Query= 16
+
+Length=735
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1652778
+
+
+Query= 17
+
+Length=309
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 681526
+
+
+Query= 18
+
+Length=552
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1234440
+
+
+Query= 19
+
+Length=1293
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2928366
+
+
+Query= 20
+
+Length=1539
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3490722
+
+
+Query= 21
+
+Length=909
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2050542
+
+
+Query= 22
+
+Length=294
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 647221
+
+
+Query= 23
+
+Length=627
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1405890
+
+
+Query= 24
+
+Length=816
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1837944
+
+
+Query= 25
+
+Length=1047
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2366010
+
+
+Query= 26
+
+Length=600
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1344168
+
+
+Query= 27
+
+Length=747
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1680210
+
+
+Query= 28
+
+Length=1440
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3264408
+
+
+Query= 29
+
+Length=1275
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2887218
+
+
+Query= 30
+
+Length=777
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1748790
+
+
+Query= 31
+
+Length=621
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1392174
+
+
+Query= 32
+
+Length=393
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 873634
+
+
+Query= 33
+
+Length=1083
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2448306
+
+
+Query= 34
+
+Length=297
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 654082
+
+
+Query= 35
+
+Length=1659
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3761110
+
+
+Query= 36
+
+Length=249
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 544306
+
+
+Query= 37
+
+Length=735
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1652778
+
+
+Query= 38
+
+Length=321
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 708970
+
+
+Query= 39
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 347776
+
+
+Query= 40
+
+Length=2160
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 4905895
+
+
+Query= 41
+
+Length=414
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 921661
+
+
+Query= 42
+
+Length=2013
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 4570000
+
+
+Query= 43
+
+Length=411
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 914800
+
+
+Query= 44
+
+Length=1629
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3692560
+
+
+Query= 45
+
+Length=1179
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2667762
+
+
+Query= 46
+
+Length=1428
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3236976
+
+
+Query= 47
+
+Length=318
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 702109
+
+
+Query= 48
+
+Length=1059
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2393442
+
+
+Query= 49
+
+Length=996
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2249424
+
+
+Query= 50
+
+Length=1221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2763774
+
+
+Query= 51
+
+Length=699
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1570482
+
+
+Query= 52
+
+Length=999
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2256282
+
+
+Query= 53
+
+Length=789
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1776222
+
+
+Query= 54
+
+Length=444
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 990271
+
+
+Query= 55
+
+Length=1260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2852928
+
+
+Query= 56
+
+Length=276
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 606055
+
+
+Query= 57
+
+Length=765
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1721358
+
+
+Query= 58
+
+Length=930
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2098548
+
+
+Query= 59
+
+Length=240
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 523723
+
+
+Query= 60
+
+Length=900
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2029968
+
+
+Query= 61
+
+Length=573
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1282446
+
+
+Query= 62
+
+Length=696
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1563624
+
+
+Query= 63
+
+Length=1806
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 4097005
+
+
+Query= 64
+
+Length=258
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 564889
+
+
+Query= 65
+
+Length=279
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 612916
+
+
+Query= 66
+
+Length=1359
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3079242
+
+
+Query= 67
+
+Length=255
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 558028
+
+
+Query= 68
+
+Length=1023
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2311146
+
+
+Query= 69
+
+Length=1704
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3863935
+
+
+Query= 70
+
+Length=657
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1474470
+
+
+Query= 71
+
+Length=489
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1093186
+
+
+Query= 72
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2091690
+
+
+Query= 73
+
+Length=423
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 942244
+
+
+Query= 74
+
+Length=576
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1289304
+
+
+Query= 75
+
+Length=975
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2201418
+
+
+Query= 76
+
+Length=882
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1988820
+
+
+Query= 77
+
+Length=417
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 928522
+
+
+Query= 78
+
+Length=348
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 770719
+
+
+Query= 79
+
+Length=1152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2606040
+
+
+Query= 80
+
+Length=1248
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2825496
+
+
+Query= 81
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2091690
+
+
+Query= 82
+
+Length=729
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1639062
+
+
+Query= 83
+
+Length=2298
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+AAC75193                                                              4419    0.0  
+
+
+
+Query_83  1     ATGAAATGGCTATGTTCAGTAGGAATCGCGGTGAGTCTGGCCCTGCAGCCAGCACTGGCG  60
+AAC75193  1     ............................................................  60
+
+Query_83  61    GATGATTTATTCGGCAACCATCCATTAACGCCCGAAGCGCGGGATGCGTTCGTCACCGAA  120
+AAC75193  61    ............................................................  120
+
+Query_83  121   CTGCTTAAGAAAATGACAGTTGATGAGAAAATTGGTCAGCTGCGCTTAATCAGCGTCGGC  180
+AAC75193  121   ............................................................  180
+
+Query_83  181   CCGGATAACCCGAAAGAGGCGATCCGCGAGATGATCAAAGACGGTCAGGTTGGGGCGATT  240
+AAC75193  181   ............................................................  240
+
+Query_83  241   TTCAACACCGTAACCCGTCAGGATATCCGCGCCATGCAGGATCAGGTGATGGAATTAAGC  300
+AAC75193  241   ............................................................  300
+
+Query_83  301   CGCCTGAAAATTCCTCTTTTCTTTGCTTACGACGTGCTGCACGGTCAGCGCACGGTGTTC  360
+AAC75193  301   ............................................................  360
+
+Query_83  361   CCGATTAGCCTCGGTCTGGCCTCGTCTTTTAACCTCGATGCAGTGAAAACGGTCGGACGT  420
+AAC75193  361   ............................................................  420
+
+Query_83  421   GTCTCTGCTTATGAAGCGGCAGATGATGGCCTGAATATGACCTGGGCACCGATGGTCGAT  480
+AAC75193  421   ............................................................  480
+
+Query_83  481   GTCTCGCGCGATCCGCGCTGGGGACGTGCTTCCGAAGGTTTTGGCGAAGATACGTATCTC  540
+AAC75193  481   ............................................................  540
+
+Query_83  541   ACCTCAACAATGGGTAAAACCATGGTGGAAGCGATGCAGGGTAAAAGCCCGGCAGATCGC  600
+AAC75193  541   ............................................................  600
+
+Query_83  601   TACTCGGTGATGACCAGCGTCAAACACTTTGCCGCATACGGCGCGGTAGAAGGCGGTAAA  660
+AAC75193  601   ............................................................  660
+
+Query_83  661   GAGTACAACACCGTCGATATGAGTCCGCAGCGCCTGTTTAATGATTATATGCCGCCGTAC  720
+AAC75193  661   ............................................................  720
+
+Query_83  721   AAAGCGGGGCTGGACGCAGGCAGCGGCGCGGTGATGGTGGCGCTGAACTCGCTGAACGGC  780
+AAC75193  721   ............................................................  780
+
+Query_83  781   ACGCCAGCCACCTCCGATTCCTGGCTGCTGAAAGATGTTCTGCGCGACCAGTGGGGCTTT  840
+AAC75193  781   ............................................................  840
+
+Query_83  841   AAAGGCATCACCGTTTCCGATCACGGTGCAATCAAAGAGCTGATTAAACATGGCACGGCG  900
+AAC75193  841   ............................................................  900
+
+Query_83  901   GCAGACCCGGAAGATGCGGTGCGCGTGGCGCTGAAATCCGGAATCAACATGAGCATGAGC  960
+AAC75193  901   ............................................................  960
+
+Query_83  961   GACGAGTACTACTCGAAGTATCTGCCTGGGTTGATTAAATCCGGCAAAGTGACGATGGCA  1020
+AAC75193  961   ............................................................  1020
+
+Query_83  1021  GAGCTGGACGATGCTGCCCGCCATGTACTGAACGTTAAATATGATATGGGGTTGTTTAAC  1080
+AAC75193  1021  ............................................................  1080
+
+Query_83  1081  GACCCATACAGCCATTTGGGGCCGAAAGAGTCTGACCCGGTGGATACCAATGCCGAAAGC  1140
+AAC75193  1081  ............................................................  1140
+
+Query_83  1141  CGCCTGCACCGTAAAGAAGCGCGTGAAGTGGCGCGCGAAAGCTTGGTGTTGCTGAAAAAC  1200
+AAC75193  1141  ............................................................  1200
+
+Query_83  1201  CGTCTCGAAACGTTACCGCTGAAAAAATCGGCCACCATTGCGGTGGTTGGGCCACTGGCG  1260
+AAC75193  1201  ............................................................  1260
+
+Query_83  1261  GACAGTAAACGTGACGTGATGGGCAGCTGGTCCGCAGCCGGTGTTGCCGATCAATCCGTG  1320
+AAC75193  1261  ............................................................  1320
+
+Query_83  1321  ACCGTACTGACCGGGATTAAAAATGCCGTCGGTGAAAACGGTAAAGTGCTGTATGCCAAA  1380
+AAC75193  1321  ............................................................  1380
+
+Query_83  1381  GGGGCGAACGTTACCAGTGACAAAGGCATTATCGATTTCCTGAATCAGTATGAAGAAGCG  1440
+AAC75193  1381  ............................................................  1440
+
+Query_83  1441  GTCAAAGTCGATCCGCGTTCGCCGCAAGAGATGATTGATGAAGCGGTGCAGACGGCGAAA  1500
+AAC75193  1441  ............................................................  1500
+
+Query_83  1501  CAATCTGATGTGGTGGTGGCTGTAGTCGGTGAAGCACAGGGGATGGCGCACGAAGCCTCC  1560
+AAC75193  1501  ............................................................  1560
+
+Query_83  1561  AGCCGGACCGATATCACTATTCCGCAAAGCCAACGTGACTTGATTGCGGCGCTGAAAGCC  1620
+AAC75193  1561  ............................................................  1620
+
+Query_83  1621  ACCGGTAAACCGCTGGTGCTGGTGCTGATGAACGGGCGTCCGCTGGCGCTGGTGAAAGAA  1680
+AAC75193  1621  ............................................................  1680
+
+Query_83  1681  GATCAGCAGGCTGATGCGATTCTGGAAACCTGGTTTGCGGGGACTGAAGGCGGTAATGCA  1740
+AAC75193  1681  ............................................................  1740
+
+Query_83  1741  ATTGCCGATGTATTGTTTGGCGATTACAACCCGTCCGGCAAGCTGCCAATGTCCTTCCCG  1800
+AAC75193  1741  ............................................................  1800
+
+Query_83  1801  CGTTCTGTCGGGCAGATCCCGGTGTACTACAGCCATCTGAATACCGGTCGCCCGTATAAT  1860
+AAC75193  1801  ............................................................  1860
+
+Query_83  1861  GCCGACAAGCCGAACAAATACACTTCGCGTTATTTTGATGAAGCTAACGGGGCGTTGTAT  1920
+AAC75193  1861  ............................................................  1920
+
+Query_83  1921  CCGTTCGGCTATGGGCTGAGCTACACCACTTTCACCGTCTCTGATGTGAAACTTTCTGCG  1980
+AAC75193  1921  ............................................................  1980
+
+Query_83  1981  CCGACCATGAAGCGTGACGGCAAAGTGACTGCCAGCGTGCAGGTGACGAACACCGGTAAG  2040
+AAC75193  1981  ............................................................  2040
+
+Query_83  2041  CGCGAGGGTGCCACGGTAGTGCAGATGTACTTGCAGGATGTGACGGCTTCCATGAGTCGC  2100
+AAC75193  2041  ............................................................  2100
+
+Query_83  2101  CCTGTGAAACAGCTGAAAGGCTTTGAGAAAATCACCCTGAAACCGGGCGAAACTCAGACT  2160
+AAC75193  2101  ............................................................  2160
+
+Query_83  2161  GTCAGCTTCCCGATCGATATTGAGGCGCTGAAGTTCTGGAATCAACAGATGAAATATGAC  2220
+AAC75193  2161  ............................................................  2220
+
+Query_83  2221  GCCGAGCCTGGCAAGTTCAATGTCTTTATCGGCACTGATTCCGCACGCGTTAAGAAAGGC  2280
+AAC75193  2221  ............................................................  2280
+
+Query_83  2281  GAGTTTGAGTTGCTGTAA  2298
+AAC75193  2281  ..................  2298
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 5221225
+
+
+Query= 84
+
+Length=477
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1065742
+
+
+Query= 85
+
+Length=378
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 839329
+
+
+Query= 86
+
+Length=1716
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3891355
+
+
+Query= 87
+
+Length=915
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2064258
+
+
+Query= 88
+
+Length=1137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2571750
+
+
+Query= 89
+
+Length=447
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 997132
+
+
+Query= 90
+
+Length=1209
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2736342
+
+
+Query= 91
+
+Length=1266
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 2866644
+
+
+Query= 92
+
+Length=1539
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3490722
+
+
+Query= 93
+
+Length=363
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 805024
+
+
+Query= 94
+
+Length=603
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1351026
+
+
+Query= 95
+
+Length=1743
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3953050
+
+
+Query= 96
+
+Length=696
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1563624
+
+
+Query= 97
+
+Length=1422
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 3223260
+
+
+Query= 98
+
+Length=468
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1045159
+
+
+Query= 99
+
+Length=810
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1824228
+
+
+Query= 100
+
+Length=516
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+
+Effective search space used: 1154935
+
+
+  Database: tophit.fa
+    Posted date:  Jun 12, 2020  6:17 PM
+  Number of letters in database: 2,298
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
