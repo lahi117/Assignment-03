@@ -47,6 +47,8 @@ res <- myblastn_tab(myseq = SAMPLE, db = "Escherichia_coli_str_k_12_substr_mg165
 str(res)
 
 head(res)
+
+#find top 3 hits
 hits <- as.character(res$sseqid[1:3])
 hits
 db <- read.fasta("Escherichia_coli_str_k_12_substr_mg1655.ASM584v2.cds.all.fa")
